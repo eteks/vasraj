@@ -1,0 +1,61 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+
+RewriteCond %{REQUEST_URI}  !(images|css|js) 
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule  ^(.*)$ index.php
+
+<IfModule mod_headers.c>
+  <filesmatch "\.(ico|flv|jpg|jpeg|png|gif|css|swf)$">
+  Header set Cache-Control "max-age=2678400, public"
+  </filesmatch>
+  <filesmatch "\.(html|htm)$">
+  Header set Cache-Control "max-age=7200, private, must-revalidate"
+  </filesmatch>
+  <filesmatch "\.(pdf)$">
+  Header set Cache-Control "max-age=86400, public"
+  </filesmatch>
+  <filesmatch "\.(js)$">
+  Header set Cache-Control "max-age=2678400, private"
+  </filesmatch>
+</IfModule>
+
+# Anti XSS protection
+
+Options +FollowSymLinks
+
+RewriteEngine On
+
+RewriteCond %{QUERY_STRING} base64_encode.*\(.*\) [OR]
+
+RewriteCond %{QUERY_STRING} (\<|%3C).*script.*(\>|%3E) [NC,OR]
+
+RewriteCond %{QUERY_STRING} (\<|%3C).*iframe.*(\>|%3E) [NC,OR]
+
+RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
+
+RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
+
+RewriteRule ^(.*)$ index_error.php [F,L]
+
+RewriteCond %{REQUEST_METHOD} ^(TRACE|TRACK)
+
+RewriteRule .* – [F]
+
+# Anti cross site tracing – protection
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_METHOD} ^TRACE
+
+RewriteRule .* – [F]
+
+# prevent image theft / hotlinking
+
+RewriteEngine on
+
+RewriteCond %{HTTP_REFERER} !^$
+

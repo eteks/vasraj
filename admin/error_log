@@ -1,0 +1,225 @@
+[14-May-2017 07:49:17 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 152
+[14-May-2017 07:49:17 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 200
+[20-May-2017 09:51:51 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 8
+[20-May-2017 09:54:21 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 8
+[20-May-2017 10:07:39 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 152
+[20-May-2017 10:07:39 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 200
+[20-May-2017 10:20:47 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 8
+[24-May-2017 16:51:18 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/archives.php on line 98
+[24-May-2017 17:11:17 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/archives.php on line 98
+[24-May-2017 17:21:18 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 8
+[24-May-2017 17:21:39 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 8
+[24-May-2017 17:22:48 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 8
+[24-May-2017 17:23:02 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 8
+[24-May-2017 17:23:23 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 8
+[24-May-2017 17:24:20 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 8
+[24-May-2017 18:48:10 Etc/GMT] PHP Warning:  require_once(authenticate.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/red9876/public_html/lgdemo/admin/tours.php on line 1
+[24-May-2017 18:48:10 Etc/GMT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'authenticate.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/red9876/public_html/lgdemo/admin/tours.php on line 1
+[24-May-2017 18:48:19 Etc/GMT] PHP Warning:  require_once(authenticate.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 1
+[24-May-2017 18:48:19 Etc/GMT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'authenticate.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 1
+[24-May-2017 18:49:32 Etc/GMT] PHP Warning:  require_once(authenticate.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/red9876/public_html/lgdemo/admin/dashboard.php on line 1
+[24-May-2017 18:49:32 Etc/GMT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'authenticate.php' (include_path='.:/opt/alt/php53/usr/share/pear:/opt/alt/php53/usr/share/php') in /home/red9876/public_html/lgdemo/admin/dashboard.php on line 1
+[24-May-2017 18:55:41 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 8
+[24-May-2017 19:01:46 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/archives.php on line 102
+[24-May-2017 19:03:15 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/archives.php on line 102
+[24-May-2017 19:03:39 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/archives.php on line 102
+[24-May-2017 19:09:23 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/archives.php on line 103
+[26-May-2017 05:02:43 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[26-May-2017 05:27:23 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[26-May-2017 05:28:15 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[26-May-2017 05:28:18 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[26-May-2017 05:28:53 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[26-May-2017 05:44:25 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[26-May-2017 05:46:35 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[26-May-2017 05:46:39 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[26-May-2017 05:46:40 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[26-May-2017 05:46:45 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[26-May-2017 05:46:50 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[26-May-2017 05:47:08 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[26-May-2017 05:50:51 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[26-May-2017 05:50:51 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[26-May-2017 05:51:12 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/eventgallery.php on line 78
+[26-May-2017 05:51:12 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/red9876/public_html/lgdemo/admin/includes/left_menu.php:44) in /home/red9876/public_html/lgdemo/admin/eventgallery.php on line 87
+[26-May-2017 05:51:12 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/eventgallery.php on line 120
+[26-May-2017 05:51:12 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/red9876/public_html/lgdemo/admin/includes/left_menu.php:44) in /home/red9876/public_html/lgdemo/admin/eventgallery.php on line 87
+[26-May-2017 05:51:13 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/gallery_list.php on line 73
+[26-May-2017 05:51:13 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/red9876/public_html/lgdemo/admin/includes/left_menu.php:44) in /home/red9876/public_html/lgdemo/admin/gallery_list.php on line 82
+[26-May-2017 05:51:13 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/gallery_list.php on line 113
+[26-May-2017 05:51:14 Etc/GMT] PHP Notice:  Undefined variable: name in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 104
+[26-May-2017 05:51:14 Etc/GMT] PHP Notice:  Undefined variable: dov in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 112
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: Group in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 120
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: Groups in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 120
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: noadult in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 128
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: nochild in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 136
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: gender in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 144
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: Genders in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 144
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: nationality in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 152
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: Nationalitys in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 152
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: dob in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 160
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: address in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 168
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: mobile in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 176
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: email in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 184
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: state in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 192
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: IDType in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 200
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: IDs in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 200
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: IDNo in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 200
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: Individual in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 208
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: person1 in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 216
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: person2 in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 224
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: person3 in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 232
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined variable: person4 in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 240
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 152
+[26-May-2017 05:51:15 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 200
+[26-May-2017 05:51:15 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/red9876/public_html/lgdemo/admin/includes/left_menu.php:44) in /home/red9876/public_html/lgdemo/admin/gallery_list.php on line 82
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: name in /home/red9876/public_html/lgdemo/admin/shareurideasdtls.php on line 99
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: mobile in /home/red9876/public_html/lgdemo/admin/shareurideasdtls.php on line 107
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: email in /home/red9876/public_html/lgdemo/admin/shareurideasdtls.php on line 115
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: address in /home/red9876/public_html/lgdemo/admin/shareurideasdtls.php on line 123
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: desc in /home/red9876/public_html/lgdemo/admin/shareurideasdtls.php on line 131
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: createdOn in /home/red9876/public_html/lgdemo/admin/shareurideasdtls.php on line 139
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: name in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 99
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: gender in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 108
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: mobile in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 116
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: email in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 124
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: address in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 132
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: type in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 140
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: desc in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 148
+[26-May-2017 05:51:18 Etc/GMT] PHP Notice:  Undefined variable: createdOn in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 156
+[26-May-2017 05:51:22 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/archives.php on line 2
+[26-May-2017 05:51:22 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/archives.php on line 2
+[26-May-2017 05:51:23 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/archives.php on line 103
+[26-May-2017 05:51:26 Etc/GMT] PHP Notice:  Undefined variable: name in /home/red9876/public_html/lgdemo/admin/feedbackdtls.php on line 99
+[26-May-2017 05:51:26 Etc/GMT] PHP Notice:  Undefined variable: email in /home/red9876/public_html/lgdemo/admin/feedbackdtls.php on line 107
+[26-May-2017 05:51:26 Etc/GMT] PHP Notice:  Undefined variable: address in /home/red9876/public_html/lgdemo/admin/feedbackdtls.php on line 115
+[26-May-2017 05:51:26 Etc/GMT] PHP Notice:  Undefined variable: desc in /home/red9876/public_html/lgdemo/admin/feedbackdtls.php on line 123
+[26-May-2017 05:51:26 Etc/GMT] PHP Notice:  Undefined variable: createdOn in /home/red9876/public_html/lgdemo/admin/feedbackdtls.php on line 131
+[26-May-2017 05:51:27 Etc/GMT] PHP Notice:  Undefined variable: eventtitle in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 86
+[26-May-2017 05:51:27 Etc/GMT] PHP Notice:  Undefined variable: eventdesc in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 89
+[26-May-2017 05:51:27 Etc/GMT] PHP Notice:  Undefined variable: eventdate in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 91
+[26-May-2017 05:51:27 Etc/GMT] PHP Notice:  Undefined variable: ss in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 92
+[26-May-2017 05:51:27 Etc/GMT] PHP Notice:  Undefined variable: estatus in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 92
+[26-May-2017 05:51:27 Etc/GMT] PHP Notice:  Undefined variable: id in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 106
+[26-May-2017 05:51:27 Etc/GMT] PHP Fatal error:  Call to a member function execute() on a non-object in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 107
+[26-May-2017 05:51:28 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/archives.php on line 103
+[26-May-2017 05:51:30 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/archives.php on line 2
+[26-May-2017 05:51:32 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/archives.php on line 103
+[26-May-2017 05:51:33 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/archives.php on line 2
+[26-May-2017 05:51:36 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/archives.php on line 103
+[26-May-2017 05:51:40 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/archives.php on line 2
+[26-May-2017 05:51:41 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/archives.php on line 103
+[26-May-2017 05:56:32 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[26-May-2017 05:56:32 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[26-May-2017 05:57:32 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/red9876/public_html/lgdemo/admin/includes/left_menu.php:44) in /home/red9876/public_html/lgdemo/admin/eventgallery.php on line 87
+[26-May-2017 05:57:33 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/red9876/public_html/lgdemo/admin/includes/left_menu.php:44) in /home/red9876/public_html/lgdemo/admin/gallery_list.php on line 82
+[26-May-2017 10:24:24 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[27-May-2017 08:13:33 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[27-May-2017 08:14:32 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/newstream.php on line 92
+[27-May-2017 08:27:25 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 08:27:55 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 08:28:24 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 08:29:49 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 08:33:02 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 08:55:07 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 08:55:12 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 08:55:16 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 08:55:25 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 09:07:34 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 09:07:40 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 09:07:46 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 09:22:47 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 09:22:51 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 10:31:37 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[27-May-2017 10:55:46 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 10:57:44 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 10:58:51 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 10:59:27 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 11:02:06 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 11:03:53 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 11:05:26 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 11:05:26 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 11:05:26 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 11:05:40 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 11:05:40 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[27-May-2017 11:05:47 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[28-May-2017 15:11:30 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[29-May-2017 11:03:24 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[29-May-2017 11:03:38 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[29-May-2017 11:03:43 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[29-May-2017 11:03:47 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[29-May-2017 11:04:40 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[29-May-2017 11:04:47 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[29-May-2017 11:04:52 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/mediacenter.php on line 94
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: name in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 104
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: dov in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 112
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: Group in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 120
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: Groups in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 120
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: noadult in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 128
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: nochild in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 136
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: gender in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 144
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: Genders in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 144
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: nationality in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 152
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: Nationalitys in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 152
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: dob in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 160
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: address in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 168
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: mobile in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 176
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: email in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 184
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: state in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 192
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: IDType in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 200
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: IDs in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 200
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: IDNo in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 200
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: Individual in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 208
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: person1 in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 216
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: person2 in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 224
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: person3 in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 232
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined variable: person4 in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 240
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 152
+[30-May-2017 10:17:33 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/tourdtls.php on line 200
+[30-May-2017 10:17:34 Etc/GMT] PHP Notice:  Undefined variable: eventtitle in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 86
+[30-May-2017 10:17:34 Etc/GMT] PHP Notice:  Undefined variable: eventdesc in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 89
+[30-May-2017 10:17:34 Etc/GMT] PHP Notice:  Undefined variable: eventdate in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 91
+[30-May-2017 10:17:34 Etc/GMT] PHP Notice:  Undefined variable: ss in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 92
+[30-May-2017 10:17:34 Etc/GMT] PHP Notice:  Undefined variable: estatus in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 92
+[30-May-2017 10:17:34 Etc/GMT] PHP Notice:  Undefined variable: id in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 106
+[30-May-2017 10:17:34 Etc/GMT] PHP Fatal error:  Call to a member function execute() on a non-object in /home/red9876/public_html/lgdemo/admin/eventcomments.php on line 107
+[30-May-2017 10:17:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/eventgallery.php on line 78
+[30-May-2017 10:17:34 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/red9876/public_html/lgdemo/admin/includes/left_menu.php:44) in /home/red9876/public_html/lgdemo/admin/eventgallery.php on line 87
+[30-May-2017 10:17:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/eventgallery.php on line 120
+[30-May-2017 10:17:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/gallery_list.php on line 73
+[30-May-2017 10:17:34 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/red9876/public_html/lgdemo/admin/includes/left_menu.php:44) in /home/red9876/public_html/lgdemo/admin/gallery_list.php on line 82
+[30-May-2017 10:17:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/gallery_list.php on line 113
+[30-May-2017 10:17:35 Etc/GMT] PHP Notice:  Undefined variable: name in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 99
+[30-May-2017 10:17:35 Etc/GMT] PHP Notice:  Undefined variable: gender in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 108
+[30-May-2017 10:17:35 Etc/GMT] PHP Notice:  Undefined variable: mobile in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 116
+[30-May-2017 10:17:35 Etc/GMT] PHP Notice:  Undefined variable: email in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 124
+[30-May-2017 10:17:35 Etc/GMT] PHP Notice:  Undefined variable: address in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 132
+[30-May-2017 10:17:35 Etc/GMT] PHP Notice:  Undefined variable: type in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 140
+[30-May-2017 10:17:35 Etc/GMT] PHP Notice:  Undefined variable: desc in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 148
+[30-May-2017 10:17:35 Etc/GMT] PHP Notice:  Undefined variable: createdOn in /home/red9876/public_html/lgdemo/admin/shramdaandtls.php on line 156
+[30-May-2017 10:17:36 Etc/GMT] PHP Notice:  Undefined variable: name in /home/red9876/public_html/lgdemo/admin/feedbackdtls.php on line 99
+[30-May-2017 10:17:36 Etc/GMT] PHP Notice:  Undefined variable: email in /home/red9876/public_html/lgdemo/admin/feedbackdtls.php on line 107
+[30-May-2017 10:17:36 Etc/GMT] PHP Notice:  Undefined variable: address in /home/red9876/public_html/lgdemo/admin/feedbackdtls.php on line 115
+[30-May-2017 10:17:36 Etc/GMT] PHP Notice:  Undefined variable: desc in /home/red9876/public_html/lgdemo/admin/feedbackdtls.php on line 123
+[30-May-2017 10:17:36 Etc/GMT] PHP Notice:  Undefined variable: createdOn in /home/red9876/public_html/lgdemo/admin/feedbackdtls.php on line 131
+[30-May-2017 10:17:37 Etc/GMT] PHP Notice:  Undefined variable: name in /home/red9876/public_html/lgdemo/admin/shareurideasdtls.php on line 99
+[30-May-2017 10:17:37 Etc/GMT] PHP Notice:  Undefined variable: mobile in /home/red9876/public_html/lgdemo/admin/shareurideasdtls.php on line 107
+[30-May-2017 10:17:37 Etc/GMT] PHP Notice:  Undefined variable: email in /home/red9876/public_html/lgdemo/admin/shareurideasdtls.php on line 115
+[30-May-2017 10:17:37 Etc/GMT] PHP Notice:  Undefined variable: address in /home/red9876/public_html/lgdemo/admin/shareurideasdtls.php on line 123
+[30-May-2017 10:17:37 Etc/GMT] PHP Notice:  Undefined variable: desc in /home/red9876/public_html/lgdemo/admin/shareurideasdtls.php on line 131
+[30-May-2017 10:17:37 Etc/GMT] PHP Notice:  Undefined variable: createdOn in /home/red9876/public_html/lgdemo/admin/shareurideasdtls.php on line 139
+[30-May-2017 10:17:37 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/archives.php on line 2
+[30-May-2017 10:17:38 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[30-May-2017 10:17:51 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[30-May-2017 10:17:52 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/red9876/public_html/lgdemo/admin/includes/left_menu.php:44) in /home/red9876/public_html/lgdemo/admin/eventgallery.php on line 87
+[30-May-2017 10:17:52 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/red9876/public_html/lgdemo/admin/includes/left_menu.php:44) in /home/red9876/public_html/lgdemo/admin/gallery_list.php on line 82
+[30-May-2017 10:18:11 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/red9876/public_html/lgdemo/admin/includes/left_menu.php:44) in /home/red9876/public_html/lgdemo/admin/eventgallery.php on line 87
+[30-May-2017 10:18:12 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/red9876/public_html/lgdemo/admin/includes/left_menu.php:44) in /home/red9876/public_html/lgdemo/admin/gallery_list.php on line 82
+[30-May-2017 10:18:22 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/archives.php on line 2
+[30-May-2017 10:18:26 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/archives.php on line 2
+[30-May-2017 10:18:30 Etc/GMT] PHP Notice:  Undefined index: id in /home/red9876/public_html/lgdemo/admin/archives.php on line 2
+[31-May-2017 15:39:39 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[01-Jun-2017 07:02:33 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[01-Jun-2017 07:02:39 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[02-Jun-2017 05:23:25 Etc/GMT] PHP Notice:  Undefined index:  in /home/red9876/public_html/lgdemo/admin/archives.php on line 103
+[23-Jun-2017 05:44:59 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[23-Jun-2017 06:28:27 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115
+[23-Jun-2017 06:28:28 Etc/GMT] PHP Notice:  Undefined index: _CAPTCHA in /home/red9876/public_html/lgdemo/admin/captcha.php on line 115

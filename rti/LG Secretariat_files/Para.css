@@ -1,0 +1,20 @@
+/* CSS Document */
+.Para_Style{
+line-height: 2;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 12px;
+}
+.Para_Head_Style{
+line-height: 2;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-weight:bold;
+color:#008ED2;
+}
+.Para_Footer_Style{
+line-height: 1.5;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight:bold;
+color:#4d87ab
+}

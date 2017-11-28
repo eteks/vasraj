@@ -1,0 +1,86 @@
+Options -Indexes
+DirectoryIndex index.php
+
+RewriteEngine on
+
+RewriteCond %{SERVER_PORT} 443
+RewriteCond %{HTTP_HOST} ^rajnivas.py.gov.in [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.rajnivas.py.gov.in [NC]
+RewriteRule ^(.*)$ https://%{SERVER_NAME}/$1 [L,R=301,NC]
+
+# RewriteRule ^([a-zA-Z0-9_-]+)$ index.php
+# RewriteRule ^([a-zA-Z0-9_-]+)/$ index.php
+
+RewriteCond %{REQUEST_URI}  !(images|css|js) 
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule  ^(.*)$ index.php
+
+
+# Leverage Browser Caching
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpg "access 1 year"
+  ExpiresByType image/jpeg "access 1 year"
+  ExpiresByType image/gif "access 1 year"
+  ExpiresByType image/png "access 1 year"
+  ExpiresByType text/css "access 1 month"
+  ExpiresByType text/html "access 1 month"
+  ExpiresByType application/pdf "access 1 month"
+  ExpiresByType text/x-javascript "access 1 month"
+  ExpiresByType application/x-shockwave-flash "access 1 month"
+  ExpiresByType image/x-icon "access 1 year"
+  ExpiresDefault "access 1 month"
+</IfModule>
+<IfModule mod_headers.c>
+  <filesmatch "\.(ico|flv|jpg|jpeg|png|gif|css|swf)$">
+  Header set Cache-Control "max-age=2678400, public"
+  </filesmatch>
+  <filesmatch "\.(html|htm)$">
+  Header set Cache-Control "max-age=7200, private, must-revalidate"
+  </filesmatch>
+  <filesmatch "\.(pdf)$">
+  Header set Cache-Control "max-age=86400, public"
+  </filesmatch>
+  <filesmatch "\.(js)$">
+  Header set Cache-Control "max-age=2678400, private"
+  </filesmatch>
+</IfModule>
+
+# Anti XSS protection
+
+Options +FollowSymLinks
+
+RewriteEngine On
+
+RewriteCond %{QUERY_STRING} base64_encode.*\(.*\) [OR]
+
+RewriteCond %{QUERY_STRING} (\<|%3C).*script.*(\>|%3E) [NC,OR]
+
+RewriteCond %{QUERY_STRING} (\<|%3C).*iframe.*(\>|%3E) [NC,OR]
+
+RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
+
+RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
+
+RewriteRule ^(.*)$ index_error.php [F,L]
+
+RewriteCond %{REQUEST_METHOD} ^(TRACE|TRACK)
+
+RewriteRule .* – [F]
+
+# Anti cross site tracing – protection
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_METHOD} ^TRACE
+
+RewriteRule .* – [F]
+
+# prevent image theft / hotlinking
+
+RewriteEngine on
+
+RewriteCond %{HTTP_REFERER} !^$
+

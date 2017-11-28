@@ -1,0 +1,65 @@
+[17-May-2017 09:28:56 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 50
+[19-May-2017 05:18:02 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 50
+[20-May-2017 09:51:25 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 266
+[20-May-2017 09:54:06 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 266
+[20-May-2017 10:34:11 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 50
+[20-May-2017 10:52:07 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 50
+[20-May-2017 10:58:17 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 266
+[20-May-2017 10:59:07 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 256
+[20-May-2017 11:00:20 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[20-May-2017 11:00:25 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[20-May-2017 11:01:18 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 266
+[20-May-2017 12:30:26 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 50
+[24-May-2017 17:20:30 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:20:32 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:20:35 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:20:35 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:20:41 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 266
+[24-May-2017 17:22:07 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:22:08 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:22:08 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:22:08 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:22:36 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 266
+[24-May-2017 17:22:44 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:22:45 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:23:07 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 266
+[24-May-2017 17:24:00 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 266
+[24-May-2017 17:24:06 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:27:44 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:27:45 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:27:46 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:27:46 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 301
+[24-May-2017 17:28:00 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 266
+[24-May-2017 17:29:03 Etc/GMT] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 256
+[27-May-2017 08:36:51 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result() [<a href='mysqli-stmt.bind-result'>mysqli-stmt.bind-result</a>]: Number of bind variables doesn't match number of fields in prepared statement in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 299
+[27-May-2017 08:36:58 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result() [<a href='mysqli-stmt.bind-result'>mysqli-stmt.bind-result</a>]: Number of bind variables doesn't match number of fields in prepared statement in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 299
+[27-May-2017 08:50:12 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result() [<a href='mysqli-stmt.bind-result'>mysqli-stmt.bind-result</a>]: Number of bind variables doesn't match number of fields in prepared statement in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 299
+[27-May-2017 08:50:17 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result() [<a href='mysqli-stmt.bind-result'>mysqli-stmt.bind-result</a>]: Number of bind variables doesn't match number of fields in prepared statement in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 299
+[27-May-2017 10:58:50 Etc/GMT] PHP Notice:  Undefined index: cmbCategory in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 79
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 5
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 42
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 57
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 77
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 93
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 114
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 127
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 147
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 161
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 182
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 193
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 204
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 227
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 248
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 262
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 279
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 293
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 321
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 342
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 351
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 361
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 382
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 397
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 415
+[30-May-2017 10:17:14 Etc/GMT] PHP Notice:  Undefined index: action in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 430
+[07-Jul-2017 12:35:01 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result() [<a href='mysqli-stmt.bind-result'>mysqli-stmt.bind-result</a>]: Number of bind variables doesn't match number of fields in prepared statement in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 299
+[07-Jul-2017 12:35:06 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result() [<a href='mysqli-stmt.bind-result'>mysqli-stmt.bind-result</a>]: Number of bind variables doesn't match number of fields in prepared statement in /home/red9876/public_html/lgdemo/admin/includes/helper.php on line 299
